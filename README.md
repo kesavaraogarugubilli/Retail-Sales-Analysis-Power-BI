@@ -1,5 +1,3 @@
-# Retail-Sales-Analysis-Power-BI
-
 # 📊 Retail Sales & Profitability Analysis — Power BI
 
 ## 📌 Project Overview
