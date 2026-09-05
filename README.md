@@ -161,7 +161,7 @@ Key performance indicators include:
 - 💹 Profit Margin
 - 🧾 Average Order Value
 - 📦 YoY Growth
-- 
+  
 
 ### 🔹 Sales Trend Analysis
 
